@@ -1,0 +1,181 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An argument in defence of the right of patrons to advousons. And incidently of the right of tythes in generall. As it was delivered to the committee for tythes, on Wednesday the 14 of September 1653 and taken exactly by one that hath skill in tachygraphy or the art of short-writing</title>
+            <author>Nortcliffe, Counsellor.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89724</idno>
+            <idno type="STC">Wing N1279</idno>
+            <idno type="STC">Thomason E713_14</idno>
+            <idno type="STC">ESTC R207166</idno>
+            <idno type="EEBO-CITATION">99866235</idno>
+            <idno type="PROQUEST">99866235</idno>
+            <idno type="VID">118500</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89724)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118500)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 110:E713[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An argument in defence of the right of patrons to advousons. And incidently of the right of tythes in generall. As it was delivered to the committee for tythes, on Wednesday the 14 of September 1653 and taken exactly by one that hath skill in tachygraphy or the art of short-writing</title>
+                  <author>Nortcliffe, Counsellor.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edward Blackmore at the Angell in Pauls Church-yard.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "by Counsellor Nortcliffe:"; "Sept. 22".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Advowson --  Early works to 1800.</term>
+               <term>Tithes --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118500:1" rendition="simple:additions"/>
+            <p>AN ARGUMENT In Defence of the Right of Patrons to Advouſons. And incidently of the Right of TYTHES in generall.</p>
+            <p>As it was delivered to the Committee for <hi>Tythes,</hi> on Wedneſday the 14 of <hi>September</hi> 1653 and taken exactly by one that hath ſkill in Ta<g ref="char:EOLhyphen"/>chygraphy or the Art of Short-writing</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Edward Blackmore</hi> at the Angell in Pauls Church-yard, 1653</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:118500:2"/>
+            <pb n="3" facs="tcp:118500:2"/>
+            <head>An ARGUMENT In Defence of the Right of Patrons to Advouſons. And incidently of <hi>the Right of TYTHES in generall</hi>
+            </head>
+            <head type="sub">As it was delivered to the Committee for <hi>Tythes,</hi> on Wedneſday the 14 of <hi>September</hi> 1653 and taken exactly by one that hath ſkill in Ta<g ref="char:EOLhyphen"/>chygraphy or the Art of Short-writing</head>
+            <opener>
+               <salute>May it pleaſe you, Sir,</salute>
+            </opener>
+            <p>I Am of Councell for two, one as claiming right to an Advouſon; the other as being a late Purchaſer of Fee-Farm Rents iſſuing out of Tithes appropriated and diſtinct from Impropriacions: That of Tithes in general is a large &amp; copious field, it would tire your paci<g ref="char:EOLhyphen"/>ence too much for me to ſpeak as the ſubject matter deſer<g ref="char:EOLhyphen"/>veth or affordeth, yet it ſtands ſo much in my way that I cannot paſs it by, (the interpoſition of it cauſing an Eclipſe to my intended Plea to Advouſons and Fee-Farms)
+<pb n="2" facs="tcp:118500:3"/>if not removed. I ſhall therefore crave leave to ſpeak a word or two to it. Firſt, I conceive that by the Law of God and Reaſon, that a <hi>maintenance</hi> is due to the Diſpen<g ref="char:EOLhyphen"/>ſers of the Word of God, for what Souldier is there in this Common-wealth that does fight without his Pay? Who planteth a Vineyard and eateth not the fruit there<g ref="char:EOLhyphen"/>of? or who feedeth a flock, and eateth not of the milk of the flock? Is not the common Labourer worthy of his hire? <hi>ae fortiori,</hi> then the Diſpenſers of the Word of God ought to have a Compenſation and Maintenance for his Labour, pains, and ſweat of his brows, in holding forth the precious things of <hi>Jeſus Chriſt.</hi> I ſhall make a further ſtep, and hold, that the <hi>maintenance</hi> of the Miniſters or Diſpenſers of the Word of God ought to be in this in di<g ref="char:EOLhyphen"/>vidual and numerical way of decimal parts, or Tenths, or Tithings.</p>
+            <p>Firſt by <hi>
+                  <g ref="char:V">Ʋ</g>ſage</hi> under the Law, for the Tribe of <hi>Levy</hi> they had their 48 Cittyes with their territories round about; they had their Tythes alſo, the firſt born, and the firſt fruits of every thing the Earth brought forth for the uſe of man. Vnder the Goſpell though they had not Tythes actually payd them, (becauſe they were as it were in theyr mocion to the Land of Reſt) yet it appeares by <hi>Origen</hi> and many other ancient Authors, that they were continually claymed as their due and right, and this continuall claym, Mr. <hi>Littleton</hi> telleth us preſerveth a right, nay it prevents diſcents <hi>que tollent entries;</hi> wee may deduce and draw Tithes down from all Ages, and Nacions in the Chriſtian world, and that is one Argument that <hi>Wol<g ref="char:EOLhyphen"/>lebius,</hi> and all Divines in Chriſtendom uſeth to proov the Bible divine, becauſe it is uſed, received, and beleived, of all Nacions: And certainly there muſt be <hi>digitus Dei</hi> in it, that all Nacions <hi>ab origine</hi> before they heard of oneanother, that they ſhould all fix upon one way of the Miniſters mayntenance by Tythings.</p>
+            <p>They are not only due by <hi>
+                  <g ref="char:V">Ʋ</g>ſage</hi> under the Law, and
+<pb n="5" facs="tcp:118500:3"/>the Goſpel, and the Concurrence, and Concord of all Na<g ref="char:EOLhyphen"/>cions in Chriſtendom; but I ſhall make a further ſtep, and proove them to be due by the Common Law of the Land, and that I ſhall proov by the writ of waſte in the Regiſter, which is the ancienteſt Book of the Common Law, for the Book Caſe of 26 <hi>Ed:</hi> 3 <hi>Lib. Aſſizes Pl.</hi> 24. proves that Originall Writs have been long before the Conqueſt, nay time out of memory of man, the beginning whereof cannot be known either by Reading or Record. For if a<g ref="char:EOLhyphen"/>ny one cut up the Parſons Trees, or do any other waſte, he may by the Common Law of this Land have a writ of waſte againſt him, and ſay in his writ that ſuch a one cut up his Trees <hi>ad exheridacionem ipſius vel Eccleſiae;</hi> and both wayes are good, as it is adjudged in <hi>Hen:</hi> the 7 <hi>fol:</hi> by his bringing of this writ it appeareth that the Parſon hath not only a Free-hold but a fee-ſimple and good inheritance in his Tithes, or gleabe, for of a leſſer eſtate then a fee-ſimple or fee-tayl a writ of waſte will not ly; therefore in my Lord <hi>Cooks</hi> fift Report <hi>fol:</hi> ſaith that if there be Tennant for Life, Remainder for life; and Tennant for Life commit Waſt, Remainder for Life cannot bring an action of Waſt; the writ of Waſt alwaies concludeth <hi>ab Exheridacionem ipſius,</hi> and Remainder for Life hath but a Free-hold and no Inheritance, ſo <hi>Cook</hi> in his firſt <hi>Inſtitutes Fol:</hi> ſaith that if Tennant in tayl Special make a Leaſe for Life, and Leſſee for Life commit Waſt, and then Tennant in tayl bring<g ref="char:EOLhyphen"/>eth a writ of Waſt, and pending the writ, he becometh Tennant in Tayl apres Poſſibility of Iſſue extinct: now this Waſt is diſpuniſhable, for he is now become but Ten<g ref="char:EOLhyphen"/>nant for Life, he hath but a Free-hold, he hath no Inheri<g ref="char:EOLhyphen"/>tance, and the words of the Writ muſt be obſerved, becauſe penall <hi>ad Exheridacionem ipſius:</hi> The tenth part ſevered from nine parts, was alwayes ſuable at Common Law; for Treſpaſs lies if taken away; <hi>Brook title Tythes.</hi> Ma<g ref="char:EOLhyphen"/>ny other Authorityes I may add upon this Head, but I haſten to that I firſt propounded of Advouſons, and Fee-Farmes.</p>
+            <pb n="6" facs="tcp:118500:4"/>
+            <p>Thirdly, it is not only due by <hi>
+                  <g ref="char:V">Ʋ</g>ſage</hi> under the Law of God, and Goſpel, and Concurrence of all Nacions, and by the Common Law of the Land; but it is due by the Cuſtom law of this Nacion, which is ſuperintendent to the Common Law; Mr. <hi>Littleton</hi> telleth us that <hi>Conſuetudo privat Communem Legom;</hi> for Cuſtom is of that puiſſance and nature, that it muſt be time out of the memory of man, and therefore a Copy-hold Eſtate, the eſſence and being of it is <hi>ſecundum conſuetudinem Manerij;</hi> it cannot be in<g ref="char:EOLhyphen"/>tayled for the Statute of <hi>Weſtminſter</hi> the 2 <hi>de Donis</hi> of in<g ref="char:EOLhyphen"/>tayling Eſtates though in the 13 of <hi>Edward</hi> the firſts time, yet it is extant of Record, &amp; therefore ſaid to be within the memory of man; for <hi>Littera Scripta manet,</hi> this need not be proved by the Authorityes of our Bookes, for it is obvi<g ref="char:EOLhyphen"/>ous to every mans ſight and experience, that ſome Parſons hath Tythe of Furz by Cuſtom, and others Tithe-Pige<g ref="char:EOLhyphen"/>ons,<note place="margin">Vpon this a Committee-man quibbled, &amp; ſaid the Gentleman did ſay true in Tythe-Ale, and that is the reaſon why Parſons have commonly ſuch fiery Faces.</note> if ſold by Cuſtom: and ſome Parſons have Tithe Rab<g ref="char:EOLhyphen"/>bets by Cuſtom, and ſome Parſons have Tithe-Ale by Cuſtom: But to ſatisfy you for the Authorities of the Law in this point, ſee <hi>Cook</hi> ſecond Report, fol. 44. <hi>Doctor and Student 2d. cap.</hi> 5. See <hi>Cook</hi> ſecond Inſtitutes, fol. 664 where hee ſayth, that a Parſon by Cuſtom may have Tythes of ſuch things as are not Tythable of <hi>Common Right.</hi>
+            </p>
+            <p>Fourthly, I ſhall proov that Tythes are not only due by <hi>
+                  <g ref="char:V">Ʋ</g>ſage</hi> under the Law and Goſpel, by the Concurrence of all Nacions, by the Common Law, by the Cuſtom Law of the Land, but they are alſo due by Statute-Law, and the Spirituall right of them as it were waved and made Tem<g ref="char:EOLhyphen"/>porall, by ſeverall Acts of Parlament: To begin with <hi>Mag<g ref="char:EOLhyphen"/>na-Charta,</hi> the begining and Fountain of all our Lawes, the Birth-right of the Free-born people of England, the pale and bounder of the people from the Tiranny of Kings, and Uſerpers; and therfore it was always ſtrugled by the people to be confirmed by all Kings, and ſo it was 32 ſeverall times: This <hi>MagnaCharta,</hi> being ſo many ſeverall times confirm<g ref="char:EOLhyphen"/>ed
+<pb n="7" facs="tcp:118500:4"/>by ſo many wiſe Parlements, that my Lord <hi>Cook</hi> in his ſe<g ref="char:EOLhyphen"/>cond <hi>Inſtitutes</hi> upon this ſaith, that all Statutes made a<g ref="char:EOLhyphen"/>gainſt it are voyd, and this Statute, this <hi>Magna-Charta,</hi> the good people of Englands Birth-right, this doth eſtabliſh Tythes: other Statutes have been made, as the 28 of <hi>Ed:</hi> the Firſt <hi>cap.</hi> 13. Statutes ſince the bleſſed Reformacion, and caſting off of the Popiſh yoak, Tythes were made Temporal and Recoverable in Common Law Courts, by 27 of <hi>Hen:</hi> 8. the 31 <hi>&amp;</hi> 32 <hi>Sta:</hi> of <hi>Hen:</hi> the 8. the firſt of <hi>Ed:</hi> the 6. <hi>Ch:</hi> the 2 of <hi>Ed:</hi> the 6. <hi>Ch:</hi> the 13. and the Statutes in the Late Parlament. Thus you ſee how all Parliaments have been tender of Tythes, nay do ſo much favour Tythes, that they give them better Remedy then other Free-holds, or Inheritances; they give them Treble dammages</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Objection. </seg>
+               </label> But ſome will ſay, that we will pay no Tyths; they are ſuperſticious.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſwer. </seg>
+               </label> It will receive this Anſwer, that the Statutes made ſince <hi>Hen:</hi> the 8. and the caſting off the Popiſh yoak, and all ſu<g ref="char:EOLhyphen"/>perſticious uſes forfeited to the King, yet theſe Tythes of the parſon ſtood firm, and adjudged not ſuperſticious; as appeareth in the <hi>Biſh:</hi> of <hi>Canterberies</hi> caſe, and the <hi>Biſh:</hi> of <hi>Wincheſters</hi> caſe, in <hi>Cooks</hi> ſecond Report: I need not put you in mind of the ſeverall Acts of the late Parliament, being ſo freſh in your memories.</p>
+            <p>Others will object that Tythes are chargeable, we will have them by ſtipends.</p>
+            <p>Truly I think they cannot be leſſe, for they are com<g ref="char:EOLhyphen"/>monly but 50, 100 or 200 Pounds <hi>per annum.</hi>
+            </p>
+            <p>The Clergy of <hi>Holland</hi> whoſe Apes wee ſeem to be in this of Stipends, allow as much, nay and their Wives and Chil<g ref="char:EOLhyphen"/>dren provided for to boot; but I may ſay that the people of England payeth no Tythes at all, for <hi>Cook</hi> in his firſt <hi>Inſtitutes</hi> 58 ſaith that all the Lands in England were the Kings Demeſnes, and I have ſeen an ancient Record that <hi>Ethelwolph</hi> the ſecond Monarch of the Saxon Race (his Father <hi>Egbert</hi> beeing the firſt that brought the former
+<pb n="8" facs="tcp:118500:5"/>
+               <hi>Heptarchy</hi> under one ſole Prince) conferd the Tythes of all the Kingdom upon the Church, by his royall Charter, or which thus <hi>Ingulph Abbot</hi> of <hi>Crowland,</hi> and old Saxon writer, <hi>King</hi> Ethelwolph <hi>with the conſent of his Prelats and Princes, which ruled in</hi> England <hi>under him in their ſeverall Provinces, did firſt enrich the Church of</hi> England, <hi>with the Tythes of all his Lands, by his Charter Royall.</hi>
+            </p>
+            <p>You may ſee by this, that they are of a Temporall conſtitution with the conſent of his Prelats and Princes. And that the Caſe is no more then this; <hi>Iohn Aſtiles</hi> graunts a Rent charge out of his Land, and then ſelleth me the Land: I hope you will all ſay, that I cannot be ſaid to pay the Rent Charge, for I conſidered it in my Purchaſe. Therefore thus you ſee the people grumble and complain to pay Tythes, and to be eaſed of this great Burden: when as indeed they pay none at all</p>
+            <p>Some will ſay they are Burdenſom to pay them in <hi>ſpecie;</hi> we will pay them by Stipends, which is more preporciona<g ref="char:EOLhyphen"/>ble and more eaſie.</p>
+            <p>This Objection will receive this Anſwer; that Tythes are more eaſie, Firſt to the Pariſhoner in generall, for now they pay it in <hi>specie,</hi> then they will pay it in <hi>nummis numeratis,</hi> and I know that the Country-man generally had rather pay twelve pence in Free-quarter or in <hi>ſpecie,</hi> then ſi penc in Money; beſides now the honeſt Parſon liv<g ref="char:EOLhyphen"/>ing at home with him, can take it at his beſt convenience, but the Collector he is reſponcible to the Treaſurer, who expects a ſtrict account; therefore the Collector being thus a ſtranger muſt aſk and have, or elſe diſtrain and uſe violence.</p>
+            <p>I am ſure it will not be proporcionable nor eaſie to the Pariſhioner in particular, for thoſe who are many hun<g ref="char:EOLhyphen"/>dreds, that have a <hi>modus decimandi,</hi> as having purchaſed
+<pb n="9" facs="tcp:118500:5"/>Abbey Lands, which by order of <hi>Ceſterciens, Hoſpitallers,</hi> are free from paying of Tithes; or by the Statute of the 31 of <hi>Hen.</hi> 8. of unity of Poſſeſſion pay no Tithes, or by real compoſition pay but ſix pence for 3 hundred pounds <hi>per annum,</hi> will by an alteration of Tithing to a Stipend pay twenty pounds <hi>per annum,</hi> or more; thus you ſee theſe men undoubtedly injured by this alteration of Tithes into Stipends.</p>
+            <p>The Parſon I am perſwaded will not conſent to the al<g ref="char:EOLhyphen"/>teration of Tithes into Stipends, for now he hath his Tithes at home, and paid himſelf, he can keep as much of them as will keep his houſe without ſending to the Market, the reſt he may let his Neighbour have a good bargain in, and ſo maintain a love and correſpondency with his Neigh<g ref="char:EOLhyphen"/>bour, and receive his money at home when his Neighbour can beſt ſpare him it; but if he have his maintenance in Stipends, and receive it of Treaſurers, he muſt often be in<g ref="char:EOLhyphen"/>terrupted in his Studies, in making many journeys to him, and many of them will prove bootleſs, for the Treaſurers will ſay, I am buſie, or Money is not come in, or his Betters muſt be paid before him, with many other Delays, which none but thoſe that are acquainted with receiving Moneys of publick Treaſuries can imagine. Some I know have been compounded out of half their Pay, becauſe they have not Moneys to ſtay in Town for their Pay, or becauſe their preſent occaſions neceſſitates them to it.</p>
+            <p>But I have been too much tranſported with my zeal in ſpeaking too long of the <hi>Juſtice</hi> in right of Tithes, I ſhall make you amends in ſpeaking leſs of the right of Advou<g ref="char:EOLhyphen"/>ſons and Fee-Farms, iſſuing out of appropriated Tithes, having made the Porch bigger than the Houſe.</p>
+            <p>Firſt, for Advouſons, I ſhall maintain that if Tithes be taken away the Patron will loſe his Right of Preſenting, and his Right in Tithe: and that he hath as good an Eſtate in it as any other man hath in his other Lands and Poſſeſ<g ref="char:EOLhyphen"/>rions; and in this I ſpeak but my Lord <hi>Cook's</hi> words in his
+<pb n="10" facs="tcp:118500:6"/>firſt <hi>Inſtitutes, fol.</hi> 17. <hi>b.</hi> my Lord <hi>Cook</hi> doth ground himſelf upon very many good Authorities in the Law, as 7 <hi>Ed.</hi> 3.63. 24 <hi>Ed.</hi> 3. <hi>fol.</hi> 34. <hi>H.</hi> 6.34. 19 <hi>Ed.</hi> 3. <hi>Quare impedit.</hi> 154. <hi>Mirrour cap.</hi> 3. <hi>Sect.</hi> 17. <hi>Dyer.</hi> 83. I ſhall prove it alſo by Writ out of the Regiſter, <hi>A reſcriptis valet ar<g ref="char:EOLhyphen"/>gumentum,</hi> as firſt the Writ of Right of Advouſon, when the Patron loſeth by default this is a Writ of a higher nature, that he may try it again, there is a <hi>Juris Vtrum,</hi> there is a <hi>quare impedit,</hi> a <hi>Darrein Preſentment,</hi> a <hi>quare non admiſit,</hi> a <hi>quare incumbravit,</hi> a <hi>vi Laica amovenda.</hi> Thus you ſee the Law like a wiſe Phyſician preſcribeth theſe ſeveral Remedies for the ſeveral Obſtructions which may happen in the Patrons right in Advouſons.</p>
+            <p>I may draw an Argument from the <hi>Topick</hi> of good pleading, for Mr <hi>Littleton</hi> and my Lord <hi>Cook</hi> in his Book of <hi>Entries</hi> ſaith, that ſuch a one is ſeiſed of his Advouſon, <hi>Vt de feodo &amp; de jure,</hi> as of his fee, and of right.</p>
+            <p>The original of Advouſon came either as they were Founders or Benefactours to them, as appeareth in <hi>Cook</hi> in his firſt <hi>Inſtitutes, fol.</hi> 17. <hi>b.</hi> or elſe by Purchaſe from the Crown upon valuable conſideracion: I muſt confeſs that no Patron can take money for preſenting to a Benefice, it were Simonie if he ſhould, and therefore <hi>Cook</hi> in his firſt <hi>Inſtitute</hi> ſaith, that a Guardian in Soccage cannot preſent to a Benefice, becauſe he cannot take money for it; and he ought by the Law to give an account to the Infant; but the ſame Authour ſaith, that the Patron may preſent his Son <hi>Si Perſona idonea ſit,</hi> and this will be a good proviſion of the Father for the younger Sons porcion, and therefore in an eye and reſpect to this the Law looketh upon an Advouſon as Aſſets, <hi>Fleta lib.</hi> 2. <hi>c.</hi> 65. <hi>Britton</hi> 185. 5 <hi>H.</hi> 7.37. 32 <hi>H.</hi> 6. <hi>fol.</hi> 21. 33 <hi>Ed.</hi> 3. <hi>Garrante</hi> 102. there<g ref="char:EOLhyphen"/>fore the Law in an eye and reſpect to this giveth the Patron Dammages if he be diſſeiſed or outed of his Advouſon, as appeareth by the <hi>Stat.</hi> 18 <hi>Ed.</hi> 1. But why go Lſo far in this thing that is ſo plain, to add more were but <hi>nodum in ſcyrpo <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uerere,</hi> or to light a Candle at the noon-day.</p>
+            <pb n="11" facs="tcp:118500:6"/>
+            <p>I come next to the Purchaſers of fee-farm rents, for if the ſub<g ref="char:EOLhyphen"/>ject be taken away the Adjunct muſt needs follow, <hi>Acceſſorium ſequitur ſuum principale:</hi> if you take away Tithes from Parſons, as they having no right to them, theſe Rents which they have granted out of Tithes muſt fall to the ground, and vaniſh with them: if Tenant in tail infeoff his Son within age and the Son at full age granteth a Rent-charge out of the Land, and then Father Tenant in tail dieth, the Son is by this <hi>remitted,</hi> and the Eſtate out of which the Rent was granted, is gone, the Rent is gone alſo: <hi>Cook</hi> firſt <hi>Inſtitutes, fol.</hi> 310.</p>
+            <p>M. <hi>Littl. Sect.</hi> 5 28. telleth us if a Parſon of a Church charge the Glebe of the Church by his Deed, and after the Patron and Ordinary confirm the ſaid Grant, then the Grant ſhall ſtand in its force, but in this Caſe it behoveth that the Patron hath a Fee-ſimple in the Advouſon; for if he hath but an Eſtate for Life or in tail in the Advouſon, then the Grant ſhall not ſtand, but during his Life and the Life of the Parſon which granted: ſo that by this you may ſee that the Patron hath an individed and joynt Eſtate in the Glebe with the Parſon; the Patron and Parſon by this you may ſee are more ſeiſed <hi>Per my &amp; per tout,</hi> of the Glebe than Jointenants are of any other Eſtate, for Jointenant have Moities in judgment of Law, which may be ex<g ref="char:EOLhyphen"/>tended, or a Fine or Particion ſued of it: but Patron and Par<g ref="char:EOLhyphen"/>ſon hath ſuch indiſtinct fee in the Glebe, as if Lands were given to <hi>Baron &amp; Feme</hi> and their heirs, here is no Moities, for Huſ<g ref="char:EOLhyphen"/>band and Wife are but one Perſon in Law: you may ſee alſo by this that the Parſon, Patron, and Ordinary <hi>(concurrentibus his)</hi> may grant Rent-charges out of the Glebe, and if you will allow the Patron and Parſon no right, then thoſe Purchaſers of thoſe Rents which are many hundreds in this Common-wealth muſt loſe their Bargains upon valuable conſiderations, which the Law did then allow them to make. Likewiſe there are many others which have extended Parſons Tithes upon Debts, and given money for Leaſes of them by way of Fine before hand, theſe will alſo be defrauded. I ſhall not mention Impropria<g ref="char:EOLhyphen"/>tions, but hint you of a Paſſage in the laſt Parliament, when
+<pb n="12" facs="tcp:118500:7"/>Biſhops were to be purged out of the Houſe of Lords, one Lord ſtood up and ſaid, Shall we agree to this Vote? we ſtand upon the ſame foundation with them, we ſhall be wounded through their ſides, <hi>Et proximus ardet <g ref="char:V">Ʋ</g>caligon,</hi> our turn will be next, and ſo it proved: theſe inconveniences you ſee will follow. The Cords and Bonds of the uſage under the Law and Goſpel with the concurrence of all Nations will be broken, the Common Law and Cuſtome Law will be infringed; thus the Statute Law and <hi>Magna Charta</hi> will be violated, the right and fee of <hi>modus decimandi,</hi> will be intrencht upon, the propriety that Patrons have in Advouſons and in Tithes will be trampled upon, Fee-farm Rents which men have hazarded to buy, to aſſiſt this Common-wealth with moneys will be extinct, former Purchaſers alſo of Rents out of the Parſons Glebe will be merged alſo: theſe with many other inconveniences which the frailty of man cannot conceive at preſent, onely the Midwife of time and expetience muſt bring forth, will follow if this Law of Tithes receive an alteration: and therefore <hi>Lycurgus</hi> when he altered any Law, he exerciſed it in his own Family twelve years firſt to ſee what inconvenience would happen upon it before he would command it to be obeyed abroad; I hope therefore that you ſeeing the right of Tithes and Patrons in Ad<g ref="char:EOLhyphen"/>vouſons you will make a farther Law to ſtrengthen them, and I hope Tithes ſeeming ſhattered like a broken Leg, you will unite them by a future Proviſion, that they will ſtand the firmer ever after.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
